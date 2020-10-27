@@ -8,7 +8,7 @@ void setup()
 void loop()
 {
   
-  int t = 20;
+  int t = 30;
   
   for(int i=2;i<12;i++){
     digitalWrite(i, HIGH);
